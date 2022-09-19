@@ -1,0 +1,20 @@
+{
+    "type": "callout",
+    "images": [
+        {
+            "title": "Instant setup",
+            "link": "https://d33wubrfki0l68.cloudfront.net/d666501c80bb3825ab3ea78136dfe068a93db6c9/6a47f/img/feature/i1.png",
+            "description": "Just integrate our SDK in your app, and it will automatically integrate with our server."
+        },
+        {
+            "title": "Over the air update",
+            "link": "https://d33wubrfki0l68.cloudfront.net/9770740f6231a4fc52c9062c9e56d8c7cec001db/700e9/img/feature/i3.png",
+            "description": "Change strings from Appscms, and your users will see latest strings without upgrading."
+        },
+        {
+            "title": "Effective translation workflow",
+            "link": "https://d33wubrfki0l68.cloudfront.net/d604e82492faaac6c5425859bdc41f5596c8d7fa/e66fc/img/feature/i4.png",
+            "description": "Add new languages and automatically translate strings in any language with Appcms."
+        }
+    ]
+}

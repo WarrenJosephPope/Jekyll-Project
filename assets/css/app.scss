@@ -1,0 +1,157 @@
+---
+---
+// Import Main CSS file from theme
+$primary: #fff;
+@import "main";
+@media screen and (min-width: 1024px) {
+    .navbar-start {
+        margin-right: 0;
+    }
+    .navbar-menu {
+        justify-content: flex-end;
+    }
+}
+.hero-body .button {
+    background-image: -moz-linear-gradient(110deg,#7b10ff 0,#974fff 100%);
+    background-image: -webkit-linear-gradient(110deg,#7b10ff 0,#974fff 100%);
+    background-image: -ms-linear-gradient(110deg,#7b10ff 0,#974fff 100%);
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 1.5rem;
+    text-transform: uppercase;
+}
+.hero-body .button:hover {
+    opacity: 0.8;
+}
+.hero-body {
+    padding: 0 !important;
+}
+.hero-body > .container1 {
+    display: flex;
+    flex-basis: 100%;
+    max-width: 100% !important;
+}
+.hero-body > .container1 > div {
+    flex-basis: 50%;
+}
+.hero-body > .container1 > .text {
+    padding: 9rem 4.5rem;
+}
+.hero-body > .container1 > .image {
+    display: flex;
+    align-items: flex-end;
+}
+.hero-body > .container1 > .image img {
+    width: 100%;
+}
+
+.footer {
+    background-image: -webkit-linear-gradient(110deg,#7b10ff 0,#974fff 100%);
+    color: white;
+    padding: 3rem;
+}
+
+.footer > .container {
+    max-width: 100% !important;
+}
+
+.footer > .container > .footer-list {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.footer > .container > .footer-list > div {
+    flex: 1 1 0px;
+    padding: 0 1rem;
+}
+
+.footer > .container > .footer-list > div > h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.footer > .container > .footer-list > div > p {
+    text-align: justify;
+}
+
+.footer-list-div > .list {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer > .container a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.footer > .container a:hover {
+    text-decoration: underline;
+}
+
+.footer > .container input {
+    margin-top:10px;
+    width: 100%;
+    padding: 5px;
+    height: 40px;
+    background: #974fff;
+    border: 0;
+    outline: 0;
+    color: white;
+}
+
+.footer > .container input::placeholder {
+    color: #ccc;
+}
+
+.footer > .container button {
+    position: absolute;
+    border: 0;
+    outline: 0;
+    width: 40px;
+    height: 40px;
+    margin-left: -40px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.profile-holder {
+    display: flex;
+    gap: 10px;
+}
+
+.profile-holder > .profile-picture {
+    width: 40px;
+    height: 40px;
+}
+
+.profile-holder > .profile-picture img {
+    border-radius: 50%;
+}
+
+
+.profile-holder > .text {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-holder > .text h6 {
+    margin-bottom: 0;
+}
+
+.profile-holder > .text p {
+    font-size: 12px;
+}
+
+.gallery-header {
+    margin-bottom: 20px;
+}
+
+.gallery-header h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.gallery-header h3 {
+    color: black;
+}

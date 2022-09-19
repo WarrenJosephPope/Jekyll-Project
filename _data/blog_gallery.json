@@ -1,0 +1,91 @@
+{
+    "title": "Latest Posts from our Blog",
+    "subtitle": "We are thought leaders in mobile app industry. Check out what our editors have written recently!",
+    "type": "blog",
+    "images": [
+        {
+            "title": "How to open JAR files",
+            "link": "https://d33wubrfki0l68.cloudfront.net/15e2d48a9b05685b740d2c51d144b96d328bedb7/0fc8a/uploads/output-26.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to open APK files",
+            "link": "https://d33wubrfki0l68.cloudfront.net/2c9b8dca7edd7ed52995fa60a2ade9ade58f3872/6a7a1/uploads/output-22.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to extract an APK file",
+            "link": "https://d33wubrfki0l68.cloudfront.net/ecbc0dbeebe7efd988226e65f5ae6994f0984f3b/3f06a/uploads/output-25.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to easily extract a JAR file",
+            "link": "https://d33wubrfki0l68.cloudfront.net/9caa77af9ccc38e9929ba4fe9fe13d67a04d1dc7/1cb67/uploads/output-24.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to create a JAR file in Java",
+            "link": "https://d33wubrfki0l68.cloudfront.net/bfe88d537187457bfd0b33d349a717f2d7a1d63c/56981/uploads/output-23.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to compile source code to APK",
+            "link": "https://d33wubrfki0l68.cloudfront.net/048338e2f3e041e33aa6d1e2461b8544c18c37e0/1e782/uploads/output-21.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "Top PDF libraries for Android",
+            "link": "https://d33wubrfki0l68.cloudfront.net/1f147cff0ac5082098db2727147b623f6317a3fa/5c032/uploads/output-17.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to add the Volley library in Android Studio",
+            "link": "https://d33wubrfki0l68.cloudfront.net/7d5ecc0f74b02290bd1f344532917776f035681f/bf7bb/uploads/output-16.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to add Retrofit library in Android Studio",
+            "link": "https://d33wubrfki0l68.cloudfront.net/b6cf905b5fc07b3a9fe98a0368c31740ca9d4231/05465/uploads/output-20.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to use the Picasso library in Android Studio",
+            "link": "https://d33wubrfki0l68.cloudfront.net/d8353fd79caf0a9967f2804ac05086c2e2690d01/a377b/uploads/output-14.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to add the Glide library in Android Studio",
+            "link": "https://d33wubrfki0l68.cloudfront.net/e7b4c94d2b3d472c00f92bb6fe5ade5d896454b5/105e6/uploads/output-15.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        },
+        {
+            "title": "How to add an external library in Android Studio",
+            "link": "https://d33wubrfki0l68.cloudfront.net/6c97f982b262d28c51cd437907be0e87dc6db26e/78ec5/uploads/output-13.png",
+            "name": "Keshav Agarwal",
+            "date": "2021-09-08",
+            "profilePic": "https://d33wubrfki0l68.cloudfront.net/b6c380ff8a28af2c331facf43d78a15920d57105/8bca5/assets/images/keshav.webp"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+[
+    {
+        "title": "About Us",
+        "content": {
+            "text": "We make mobile apps dynamic so that your users do not have to upgrade their apps for minor changes"
+        }
+    },
+    {
+        "title": "Resources",
+        "content": {
+            "list": [
+                {
+                    "title": "Blog",
+                    "link": "/blog"
+                },
+                {
+                    "title": "Android & iOS Libraries",
+                    "link": "/library"
+                },
+                {
+                    "title": "About us",
+                    "link": "/about"
+                },
+                {
+                    "title": "Contact us",
+                    "link": "/contact"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Features",
+        "content": {
+            "list": [
+                {
+                    "title": "Java Decompiler",
+                    "link": "/java-decompiler"
+                },
+                {
+                    "title": "Jar file opener",
+                    "link": "/jar-file-opener"
+                },
+                {
+                    "title": "Jar decompiler",
+                    "link": "/jar-decompiler"
+                },
+                {
+                    "title": "Apk decompiler",
+                    "link": "/apk-decompiler"
+                },
+                {
+                    "title": "Open apk file",
+                    "link": "/open-apk-file"
+                },
+                {
+                    "title": "AAR decompiler",
+                    "link": "/aar-decompiler"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Follow",
+        "content": {
+            "list": [
+                {
+                    "title": "Facebook",
+                    "link": "https://www.facebook.com"
+                },
+                {
+                    "title": "Twitter",
+                    "link": "https://www.twitter.com"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com"
+                },
+                {
+                    "title": "Instagram",
+                    "link": "https://www.instagram.com"
+                },
+                {
+                    "title": "Pinterest",
+                    "link": "https://www.pinterest.com"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Newletter",
+        "content": {
+            "text": "You can trust us. we only send promo offers, not a single spam.",
+            "placeholder": "Your email address"
+        }
+    }
+]

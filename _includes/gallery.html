@@ -1,0 +1,42 @@
+{% if page.gallery %}
+{% assign gallery=site.data.[page.gallery] %}
+{% if gallery.title %}
+<div class="gallery-header">
+    <h1>{{ gallery.title }}</h1>
+    <h3>{{ gallery.subtitle }}</h3>
+</div>
+{% endif %}
+    <div class="columns is-multiline">
+        {% for image in gallery.images %}
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                {% if gallery.type == "callout" %}
+                <div class="card-image" style="padding: 10px 50px">
+                {% else %}
+                <div class="card-image">
+                {% endif %}
+                    <img src="{{ image.link }}">
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <h3>{{ image.title }}</h3>
+                        {% if gallery.type == "callout" %}
+                        {{ image.description | markdownify }}
+                        {% else %}
+                        <div class="profile-holder">
+                            <div class="profile-picture">
+                                <img src="{{ image.profilePic }}" alt="profile" />
+                            </div>
+                            <div class="text">
+                                <h6>{{ image.name }}</h6>
+                                <p>{{ image.date }}</p>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endif %}

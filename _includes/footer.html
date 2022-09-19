@@ -1,0 +1,31 @@
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="footer-list">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="footer-list-div">
+                <h3>{{ item.title }}</h3>
+                {% if item.content.text %}
+                <p>{{ item.content.text }}</p>
+                {% elsif item.content.list %}
+                <div class="list">
+                {% for anchor in item.content.list %}
+                    <a href="{{anchor.link}}">{{ anchor.title }}</a>
+                {% endfor %}
+                </div>
+                {% endif %}
+                {% if item.content.placeholder %}
+                    <input type="" placeholder="{{ item.content.placeholder }}" />
+                    <button>Go</button>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
